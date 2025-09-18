@@ -54,42 +54,8 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-<svg width="500" height="120" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fondo estilo Spotify -->
-  <rect width="500" height="120" fill="#121212" rx="15" />
+[![Now Playing - In the End](https://raw.githubusercontent.com/<TU-USUARIO>/<TU-REPO>/main/api/in_the_end.svg)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
 
-  <!-- Portada oficial de Hybrid Theory -->
-  <image href="https://upload.wikimedia.org/wikipedia/en/2/2e/Linkin_Park_Hybrid_Theory_Album_Cover.svg"
-         x="15" y="15" height="90" width="90" rx="10" />
-
-  <!-- Texto: Título y Artista -->
-  <text x="120" y="45" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
-    In the End
-  </text>
-  <text x="120" y="70" fill="#b3b3b3" font-family="Arial, sans-serif" font-size="16">
-    Linkin Park
-  </text>
-
-  <!-- Botón de Play -->
-  <circle cx="460" cy="60" r="25" fill="#1DB954"/>
-  <polygon points="450,47 470,60 450,73" fill="white"/>
-
-  <!-- Barras animadas estilo Spotify (suave) -->
-  <g transform="translate(120,90)">
-    <rect x="0" y="-20" width="5" height="20" fill="#1DB954">
-      <animate attributeName="height" values="20;40;20" dur="1s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-20;-40;-20" dur="1s" repeatCount="indefinite" />
-    </rect>
-    <rect x="10" y="-30" width="5" height="30" fill="#1DB954">
-      <animate attributeName="height" values="30;50;30" dur="1.3s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-30;-50;-30" dur="1.3s" repeatCount="indefinite" />
-    </rect>
-    <rect x="20" y="-25" width="5" height="25" fill="#1DB954">
-      <animate attributeName="height" values="25;45;25" dur="1.1s" repeatCount="indefinite" />
-      <animate attributeName="y" values="-25;-45;-25" dur="1.1s" repeatCount="indefinite" />
-    </rect>
-  </g>
-</svg>
 
 
 
