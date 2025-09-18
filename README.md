@@ -1,6 +1,6 @@
 
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-[![GIF divertido](https://i.gifer.com/1FA.gif)](https://i.gifer.com/1FA.gif)
+
 
 
 
