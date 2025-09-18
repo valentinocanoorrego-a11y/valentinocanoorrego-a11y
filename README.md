@@ -54,9 +54,10 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-![Spotify](https://novatorem.vercel.app/api/spotify) 
+[![In the End - Linkin Park](https://img.shields.io/badge/Now_Playing-In_the_End_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
 
-[![In the End - Linkin Park](https://img.shields.io/badge/Now_Playing-In_the_End_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+
 
 
 
