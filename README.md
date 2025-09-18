@@ -48,7 +48,7 @@
 siempre escucho música. <br><br>
 
 🎼 Me gusta todo tipo de música. <br>  
-🎵 Mi canción favorita es <strong>In The End</strong> y Ruthless</strong>. <br>  
+🎵 Mis canciones favorita es <strong>In The End</strong> ,Ruthless</strong> y Somewhere Only We Know</strong>. <br>  
 🎧 Siempre ando con audífonos escuchando música,  
 ya que eso me relaja mientras hago mis deberes.  
 
@@ -56,12 +56,15 @@ ya que eso me relaja mientras hago mis deberes.
 
 
 
+### 🎶 Now Playing
+
 [![In the End - Linkin Park](https://img.shields.io/badge/Now_Playing-In_the_End_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)  
 [![Ruthless - NEFFEX](https://img.shields.io/badge/Now_Playing-Ruthless_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=FcsCDc7VY3s)  
+[![Somewhere Only We Know - Keane](https://img.shields.io/badge/Now_Playing-Somewhere_Only_We_Know_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=Oextk-If8HQ)  
 
+---
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
 
 
 
