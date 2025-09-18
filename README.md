@@ -1,5 +1,5 @@
 
-[![Cat typing furiously](https://media.giphy.com/media/xT4uQck51Caw74VWDe/giphy.gif)](https://giphy.com/gifs/cat-typing-xT4uQck51Caw74VWDe)
+[![Tired cat](https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif)](https://giphy.com/gifs/cat-tired-computer-mlvseq9yvZhba
 [![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)](https://giphy.com/gifs/funny-cat-computer-JIX9t2j0ZTN9S)
 
 
