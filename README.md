@@ -1,7 +1,6 @@
-#                                   Buenas Mi Gente <p align="center">
-  <b>Cara Fachera Facherita</b><br>
-  😎
-</p>
+#                                   Buenas Mi Gente <img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/4cc3719b-c501-497c-a878-54a8ca369862" />
+
+ 
 
 
 
