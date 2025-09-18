@@ -27,20 +27,23 @@
 <h2 align="center">🛠️ Programas que uso</h2>
 
 <p align="center">
-  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-       alt="VS Code" width="80" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-       alt="Visual Studio 2022" width="80" height="80"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       alt="GitHub" width="80" height="80"/>
+       alt="VS Code" width="80" height="80"/><br>
+  <sub><b>Visual Studio Code</b></sub>
 </p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+       alt="Visual Studio 2022" width="80" height="80"/><br>
+  <sub><b>Visual Studio 2022</b></sub>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" width="80" height="80"/><br>
+  <sub><b>GitHub</b></sub>
+</p>
+
 
 
 
