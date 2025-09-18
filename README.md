@@ -1,4 +1,4 @@
-![Monkey computer](https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif
+[![Monkey computer](https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif)](https://giphy.com/gifs/monkey-computer-13borq7Zo2kulO
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
