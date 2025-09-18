@@ -14,7 +14,7 @@
 #### ⚡ Jugando la vida en modo difícil, pero siempre ganando
 #### 👨‍🎓 Estudiante de IESTP Huaycán  
 ##### ✉️ Coleccionando momentos, no cosas 
-###### ✨ Menos perfección, más autenticidad
+##### ✨ Menos perfección, más autenticidad
  
 
 ---
