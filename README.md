@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=815644182489965986" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+https://i.pinimg.com/564x/48/90/ce/4890ce6e2c6f70b12a0406e7d0d531b3.jpg)]
 
 # Buenas Mi Gente
 ## Soy Valentino
