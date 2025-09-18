@@ -1,13 +1,4 @@
-<img src="https://github.com/valentino/valentino/blob/main/ccc2efd5-e2ba-4247-bec0-167f1cf62962.png" alt="Tanjiro" width="120"/>
-
-    
-
-
-                                  
-
- 
-
-
+<h1 align="center">Buenas mi gente 😎</h1>
 
 
 ### ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) <img width="340" height="382" alt="image" src="https://github.com/user-attachments/assets/9be2e989-7581-4551-b49b-17805e3f5510" />
