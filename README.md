@@ -22,8 +22,18 @@
 - 🏆 Siempre buscando nuevos retos  
 - 🔥 Apasionado por el código limpio  
 - 📚 Aprendiendo nuevas tecnologías día a día  
-- 🤝 Abierto a colaborar en proyectos interesantes  
-- 🎨 Me apasiona dibujar  
+- 🤝 Abierto a colaborar en proyectos interesantes
+- 
+
+  ## 🎮 Mis hobbies  
+
+- 🕹️ Jugar en línea o en consola  
+- 🎨 Me gusta dibujar  
+- 📺 Ver series  
+- 🎬 Ver películas  
+- 🎉 Salir a divertirme  
+- 📚 Aprender nuevas cosas  
+
 
 
 ---
