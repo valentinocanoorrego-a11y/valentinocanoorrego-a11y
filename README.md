@@ -54,7 +54,8 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-![Now Playing](assets/in_the_end.gif)
+![Now Playing - In the End](assets/in_the_end.gif)
+
 
 
 
