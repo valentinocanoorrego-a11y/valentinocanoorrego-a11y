@@ -1,6 +1,8 @@
 
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![GIF divertido](https://i.gifer.com/1FA.gif)
+<p align="center">
+  <img src="https://i.gifer.com/1FA.gif" width="300" alt="GIF divertido"/>
+</p
 
 
 # Buenas Mi Gente
