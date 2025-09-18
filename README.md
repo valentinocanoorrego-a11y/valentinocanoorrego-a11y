@@ -18,7 +18,6 @@
 ---
 
 
-<img width="1060" height="1500" alt="image" src="https://github.com/user-attachments/assets/48eac17c-d4e2-4ae7-995e-162325bcfd51" />
 <h2 align="right">🎯 Un poco sobre mí</h2>
 
 <p align="right">
