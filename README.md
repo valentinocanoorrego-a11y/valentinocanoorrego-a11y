@@ -17,12 +17,13 @@
 
 ---
 
-## 🎯 Un poco sobre mí
+## 🎯 Un poco sobre mí  
+
 - 🏆 Siempre buscando nuevos retos  
 - 🔥 Apasionado por el código limpio  
 - 📚 Aprendiendo nuevas tecnologías día a día  
-- 🤝 Abierto a colaborar en proyectos interesantes
-- <h4>🎨 Me apasiona dibujar</h4>
+- 🤝 Abierto a colaborar en proyectos interesantes  
+- 🎨 Me apasiona dibujar  
 
 
 ---
