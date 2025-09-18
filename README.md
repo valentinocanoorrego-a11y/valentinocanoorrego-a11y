@@ -27,23 +27,21 @@
 <h2 align="center">🛠️ Programas que uso</h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80"/><br>
-        <sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"/><br>
-        <sub><b>Visual Studio 2022</b></sub>
-      </td>
-      <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/><br>
-        <sub><b>GitHub</b></sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80"/>
+  <br>
+  <sub><b>VS Code</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="80" height="80"/>
+  <br>
+  <sub><b>Visual Studio 2022</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" height="80"/>
+  <br>
+  <sub><b>GitHub</b></sub>
 </p>
+
 
 
 
