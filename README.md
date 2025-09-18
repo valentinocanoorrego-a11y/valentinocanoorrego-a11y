@@ -2,15 +2,15 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing" width="400"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing" width="500"/>
 </p>
 
 
 
  ## Soy Valentino 
  ### Soy Estudiante de IESTP Huaycán. 
- ####Coleccionando momentos, no cosas. 
- ##### Menos perfección, más autenticidad. 
+ ### Coleccionando momentos, no cosas. 
+ #### Menos perfección, más autenticidad. 
 
 ---
 
