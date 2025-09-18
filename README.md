@@ -62,8 +62,6 @@ ya que eso me relaja mientras hago mis deberes.
 [![Ruthless - NEFFEX](https://img.shields.io/badge/Now_Playing-Ruthless_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=FcsCDc7VY3s)  
 [![Somewhere Only We Know - Keane](https://img.shields.io/badge/Now_Playing-Somewhere_Only_We_Know_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=Oextk-If8HQ)  
 
----
-
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
 
 
