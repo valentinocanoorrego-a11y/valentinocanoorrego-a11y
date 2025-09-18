@@ -1,10 +1,10 @@
-
+                                Buenas Mi Gente
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 
 
-# Buenas Mi Gente
+
 ## Soy Valentino
 ### Soy Estudiante de IESTP Huaycán.
 #### Coleccionando momentos, no cosas.
