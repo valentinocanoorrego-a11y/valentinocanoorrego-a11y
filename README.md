@@ -24,22 +24,24 @@
 - 🤝 Abierto a colaborar en proyectos interesantes
 
 ---
+<h2 align="center">🛠️ Programas que uso</h2>
+
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-         alt="VS Code" width="80" height="80">
-  </a>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+       alt="VS Code" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-         alt="Visual Studio 2022" width="80" height="80">
-  </a>
+  
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+       alt="Visual Studio 2022" width="80" height="80"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         alt="GitHub" width="80" height="80">
-  </a>
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" width="80" height="80"/>
 </p>
+
 
 
 🎉 *Gracias por visitar mi perfil* 🚀 
