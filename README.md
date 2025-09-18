@@ -17,24 +17,26 @@
 
 ---
 
-## 🎯 Un poco sobre mí  
+<h2 align="right">🎯 Un poco sobre mí</h2>
 
-- 🏆 Siempre buscando nuevos retos  
-- 🔥 Apasionado por el código limpio  
-- 📚 Aprendiendo nuevas tecnologías día a día  
-- 🤝 Abierto a colaborar en proyectos interesantes
+<p align="right">
+  🏆 Siempre buscando nuevos retos <br>
+  🔥 Apasionado por el código limpio <br>
+  📚 Aprendiendo nuevas tecnologías día a día <br>
+  🤝 Abierto a colaborar en proyectos interesantes
+</p>
+
 - 
 
-<h2 align="center">🎮 Mis Hobbies</h2>
+## 🎮 Mis hobbies  
 
-<p align="center">
-  <b>🎮 Jugar en línea o en consola</b><br>
-  <b>🎨 Dibujar</b><br>
-  <b>📺 Ver series</b><br>
-  <b>🎬 Ver películas</b><br>
-  <b>🎉 Salir a divertirme</b><br>
-  <b>📚 Aprender nuevas cosas</b>
-</p>
+- 🎮 Jugar en línea o en consola  
+- 🎨 Me gusta dibujar  
+- 📺 Ver series  
+- 🎬 Ver películas  
+- 🎉 Salir a divertirme  
+- 📚 Aprender nuevas cosas  
+
 
 
 
