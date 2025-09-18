@@ -1,4 +1,4 @@
-[Tanjiro Kamado GIF](https://media.giphy.com/media/ID_DE_TANJIRO_GIF/giphy.gif)
+[![Tanjiro Kamado GIF](https://media.giphy.com/media/ID_DE_TANJIRO_GIF/giphy.gif)](https://giphy.com/gifs/ID_DE_TANJIRO_GIF
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
