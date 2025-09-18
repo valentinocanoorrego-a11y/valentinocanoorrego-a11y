@@ -54,8 +54,16 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
+<div align="right">
 
-https://open.spotify.com/user/31kclczc6uyfdpkx7yej6hj66tn4?si=1cbb7bc4326d4b76
+![Portada de tu perfil de Spotify](https://i.scdn.co/image/ab67616d0000b27360a0c8e8c9b4e8b3c8b8b8b8)
+
+### 🎧 Mi perfil de Spotify
+
+🔗 [Visítame en Spotify](https://open.spotify.com/user/31kclczc6uyfdpkx7yej6hj66tn4?si=1cbb7bc4326d4b76)
+
+</div>
+
 
 
 
