@@ -16,6 +16,8 @@
  #### Menos perfección, más autenticidad. 
 
 ---
+<img width="1060" height="1500" alt="image" src="https://github.com/user-attachments/assets/6ea543fd-298e-45e4-84e6-ebc9f632dbf6" />
+
 
 <h2 align="right">🎯 Un poco sobre mí</h2>
 
