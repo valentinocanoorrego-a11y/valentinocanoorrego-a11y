@@ -54,7 +54,7 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-![Spotify](https://novatorem.vercel.app/api/spotify)(https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+[![Now Playing - In the End](https://raw.githubusercontent.com/<TU-USUARIO>/<TU-REPO>/main/api/in_the_end.svg)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
 
 
 
