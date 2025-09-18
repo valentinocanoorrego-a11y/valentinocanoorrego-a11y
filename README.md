@@ -63,7 +63,7 @@ ya que eso me relaja mientras hago mis deberes.
 
 **Ruthless – NEFFEX**  
 [![Ruthless - NEFFEX](https://img.shields.io/badge/Now_Playing-Ruthless_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=FcsCDc7VY3s)  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://music.youtube.com/watch?v=FcsCDc7VY3s)
+
 
 
 
