@@ -55,20 +55,8 @@ ya que eso me relaja mientras hago mis deberes.
 </div>
 
 
-<div align="right">
+https://i.scdn.co/image/ab67616d0000b27300b6b22a4a4e0c21cfbda43a
 
-<h3>🎧 Now Playing on Spotify</h3>
-
-<a href="https://open.spotify.com/intl-es/track/60a0Rd6pjrkxjPbaKzXjfq?si=60840a921fb8402b" target="_blank">
-  <img src="https://i.scdn.co/image/ab67616d00001e020a06782cadc3e26313622309" width="250" alt="In The End - Linkin Park"/>
-</a>
-
-<br>
-<b>In The End</b> – Linkin Park <br>
-🎵 Álbum: Hybrid Theory <br>
-▶️ <a href="https://open.spotify.com/intl-es/track/60a0Rd6pjrkxjPbaKzXjfq?si=60840a921fb8402b" target="_blank">Escuchar en Spotify</a>
-
-</div>
 
 
 
