@@ -56,13 +56,14 @@ ya que eso me relaja mientras hago mis deberes.
 
 <div align="right">
 
-![Portada de tu perfil de Spotify](https://i.scdn.co/image/ab67616d0000b27360a0c8e8c9b4e8b3c8b8b8b8)
+![Mi foto de perfil Spotify](https://github.com/tuUsuario/tuRepo/raw/main/images/miPerfilSpotify.png)
 
 ### 🎧 Mi perfil de Spotify
 
-🔗 [Visítame en Spotify](https://open.spotify.com/user/31kclczc6uyfdpkx7yej6hj66tn4?si=1cbb7bc4326d4b76)
+[Visítame en Spotify](https://open.spotify.com/user/31kclczc6uyfdpkx7yej6hj66tn4?si=1cbb7bc4326d4b76)
 
 </div>
+
 
 
 
