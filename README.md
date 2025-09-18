@@ -53,8 +53,10 @@ siempre escucho música. <br><br>
 ya que eso me relaja mientras hago mis deberes.  
 
 </div>
+![Spotify](https://novatorem.vercel.app/api/spotify)[![In the End - Linkin Park](https://img.shields.io/badge/Now_Playing-In_the_End_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
 
-[![Now Playing - In the End](https://raw.githubusercontent.com/<TU-USUARIO>/<TU-REPO>/main/api/in_the_end.svg)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+
+
 
 
 
