@@ -2,7 +2,8 @@
 
 
 
-##                   ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+###                   ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+#### <img width="340" height="382" alt="image" src="https://github.com/user-attachments/assets/6c848b0f-5ca7-40e9-8dbf-543168f6dea0" />
 
 
 
