@@ -54,7 +54,8 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-[![Now Playing](https://i.imgur.com/KNm2zhR.gif)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+[![Now Playing - In the End](assets/in_the_end.gif)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+
 
 
 
