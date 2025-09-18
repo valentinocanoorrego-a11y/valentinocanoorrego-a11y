@@ -1,17 +1,15 @@
 <h1 align="center">Buenas mi gente 😎</h1>
 
 
-### <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing" width="200"/>
 </p>
 
 
 
-| ✨ | ## Soy Valentino |
-|----|------------------|
-| 🎓 | ### Soy Estudiante de IESTP Huaycán. |
-| 📸 | #### Coleccionando momentos, no cosas. |
-| 🌿 | ##### Menos perfección, más autenticidad. |
+ ## Soy Valentino 
+ ### Soy Estudiante de IESTP Huaycán. |Coleccionando momentos, no cosas. |
+ ##### Menos perfección, más autenticidad. 
 
 ---
 
