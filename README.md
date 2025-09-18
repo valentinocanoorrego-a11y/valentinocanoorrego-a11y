@@ -1,4 +1,4 @@
-![Animales graciosos en la computadora](./assets/animales.gif)
+[Tanjiro Kamado GIF](https://media.giphy.com/media/ID_DE_TANJIRO_GIF/giphy.gif)
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
