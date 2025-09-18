@@ -22,7 +22,7 @@
 - 🔥 Apasionado por el código limpio  
 - 📚 Aprendiendo nuevas tecnologías día a día  
 - 🤝 Abierto a colaborar en proyectos interesantes
-- <h1>🎨 Me apasiona dibujar</h1>
+- <h3>🎨 Me apasiona dibujar</h3>
 
 
 ---
