@@ -1,4 +1,4 @@
-
+[![Dog typing](https://media.giphy.com/media/l3vR1Xf0z9cX9wt0Q/giphy.gif)](https://giphy.com/gifs/funny-dog-computer-l3vR1Xf0z9cX9wt0Q)
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
@@ -21,7 +21,7 @@
 🎉 *Gracias por visitar mi perfil* 🚀 
 ###### No esperes que las oportunidades lleguen, sal y créalas tú mismo.
 **Si no las buscas por ti mismo jamas llegaran y no progreseras**
-**, asi que aslo con pasion y veras que si se puede**
+**, asi que aslo con pasión y veras que si se puede**
 
 
 
