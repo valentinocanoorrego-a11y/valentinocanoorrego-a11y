@@ -12,9 +12,10 @@
 
  ## 🚀 Soy Valentino, 🌟 Soñador incansable, creador de mi propio camino   
 #### ⚡ Jugando la vida en modo difícil, pero siempre ganando
-##### Soy Estudiante de IESTP Huaycán. 
-#### Coleccionando momentos, no cosas. 
-##### Menos perfección, más autenticidad. 
+#### 👨‍🎓 Estudiante de IESTP Huaycán  
+##### ✉️ Coleccionando momentos, no cosas 
+###### ✨ Menos perfección, más autenticidad
+ 
 
 ---
 
