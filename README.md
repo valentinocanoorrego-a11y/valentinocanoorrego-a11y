@@ -1,8 +1,10 @@
-#<h1 align="center">Buenas mi gente 😎</h1>
+# <table>
+  <tr>
+    <td><h1>Buenas mi gente 😎</h1></td>
+    <td><img src="https://github.com/valentino/valentino/blob/main/ccc2efd5-e2ba-4247-bec0-167f1cf62962.png" alt="Tanjiro" width="80"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/valentino/valentino/blob/main/ccc2efd5-e2ba-4247-bec0-167f1cf62962.png" alt="Tanjiro" width="120"/>
-</p>
                                   
 
  
