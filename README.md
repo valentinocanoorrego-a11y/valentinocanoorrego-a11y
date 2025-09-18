@@ -1,4 +1,9 @@
-#                                   Buenas Mi Gente <img width="640" height="479" alt="image" src="https://github.com/user-attachments/assets/4cc3719b-c501-497c-a878-54a8ca369862" />
+#<h1 align="center">Buenas mi gente 😎</h1>
+
+<p align="center">
+  <img src="https://github.com/valentino/valentino/blob/main/ccc2efd5-e2ba-4247-bec0-167f1cf62962.png" alt="Tanjiro" width="120"/>
+</p>
+                                  
 
  
 
