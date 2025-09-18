@@ -27,7 +27,7 @@
   🤝 Abierto a colaborar en proyectos interesantes
 </p>
 
-- 
+
 
 ## 🎮 Mis hobbies  
 
