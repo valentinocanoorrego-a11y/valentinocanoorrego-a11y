@@ -54,15 +54,8 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-<div align="right">
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
-![Mi foto de perfil Spotify](https://github.com/tuUsuario/tuRepo/raw/main/images/miPerfilSpotify.png)
-
-### 🎧 Mi perfil de Spotify
-
-[Visítame en Spotify](https://open.spotify.com/user/31kclczc6uyfdpkx7yej6hj66tn4?si=1cbb7bc4326d4b76)
-
-</div>
 
 
 
