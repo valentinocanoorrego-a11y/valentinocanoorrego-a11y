@@ -27,10 +27,6 @@
 
 🎉 *Gracias por visitar mi perfil* 🚀 
 <h1 align="center">
-  💡 <b>No esperes que las oportunidades lleguen,<br>sal y créalas tú mismo.</b> 💡
-</h1>
-
-<h1 align="center">
   🚀 <b>Si no las buscas por ti mismo jamás llegarán y no progresarás</b> 🚀
 </h1>
 
@@ -38,8 +34,7 @@
   🔥 <b>Así que hazlo con pasión y verás que sí se puede</b> 🔥
 </h1>
 
-**Si no las buscas por ti mismo jamas llegaran y no progreseras**
-**, asi que aslo con pasión y veras que si se puede**
+
 
 
 
