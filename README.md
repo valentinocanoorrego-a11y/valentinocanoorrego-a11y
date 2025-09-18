@@ -24,6 +24,8 @@
 - 🤝 Abierto a colaborar en proyectos interesantes
 
 ---
+<h1 align="center">Programas que utilizo</h1>
+
 <p align="center">
   <a href="https://code.visualstudio.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
