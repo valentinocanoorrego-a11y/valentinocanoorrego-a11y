@@ -1,7 +1,10 @@
 <h1 align="center">Buenas mi gente 😎</h1>
 
 
-### ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) 
+### <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing"/>
+</p>
+
 
 
 | ✨ | ## Soy Valentino |
