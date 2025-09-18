@@ -38,7 +38,14 @@
 - 📺 Ver series  
 - 🎬 Ver películas  
 - 🎉 Salir a divertirme  
-- 📚 Aprender nuevas cosas  
+- 📚 Aprender nuevas cosas
+
+## Mi Parte de La Musica
+### Cada Vez que hago mis trabajos o me pongo a hacer algo siempre escucho musica.
+#### Me gusta todo tipo de Musica.
+#### Mi Cancion favorita es In The End.
+#### Siempre Paro con Audifonos escuchando Musica ya que eso me relaja mientras ago mis deberes.
+https://music.youtube.com/watch?v=eVTXPUF4Oz4
 
 
 
