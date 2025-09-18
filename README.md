@@ -40,12 +40,20 @@
 - 🎉 Salir a divertirme  
 - 📚 Aprender nuevas cosas
 
-🎶 Mi Parte de la Música
-- 🎧 Cada vez que hago mis trabajos o me pongo a hacer algo, siempre escucho música.
-- 🎼 Me gusta todo tipo de música.
-- 🎵 Mi canción favorita es In The End.
-- 🎧 Siempre ando con audífonos escuchando música, ya que eso me relaja mientras hago mis deberes.
-https://music.youtube.com/watch?v=eVTXPUF4Oz4
+<div align="right">
+
+<h1>🎶 Mi Parte de la Música</h1>
+
+🎧 Cada vez que hago mis trabajos o me pongo a hacer algo,  
+siempre escucho música. <br><br>
+
+🎼 Me gusta todo tipo de música. <br>  
+🎵 Mi canción favorita es <strong>In The End</strong>. <br>  
+🎧 Siempre ando con audífonos escuchando música,  
+ya que eso me relaja mientras hago mis deberes.  
+
+</div>
+
 
 
 
