@@ -25,14 +25,17 @@
 - 🤝 Abierto a colaborar en proyectos interesantes
 - 
 
-  ## 🎮 Mis hobbies  
+<h2 align="center">🎮 Mis Hobbies</h2>
 
-- 🕹️ Jugar en línea o en consola  
-- 🎨 Me gusta dibujar  
-- 📺 Ver series  
-- 🎬 Ver películas  
-- 🎉 Salir a divertirme  
-- 📚 Aprender nuevas cosas  
+<p align="center">
+  <b>🎮 Jugar en línea o en consola</b><br>
+  <b>🎨 Dibujar</b><br>
+  <b>📺 Ver series</b><br>
+  <b>🎬 Ver películas</b><br>
+  <b>🎉 Salir a divertirme</b><br>
+  <b>📚 Aprender nuevas cosas</b>
+</p>
+
 
 
 
