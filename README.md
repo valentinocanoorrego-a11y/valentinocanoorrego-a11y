@@ -27,7 +27,7 @@
 
 🎉 *Gracias por visitar mi perfil* 🚀 
 <h1 align="center">
-  🚀 <b>Si no las buscas por ti mismo jamás llegarán y no progresarás</b> 🚀
+  🚀<b>Si no las buscas por ti mismo jamás llegarán y no progresarás</b>🚀
 </h1>
 
 <h1 align="center">
