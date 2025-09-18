@@ -1,6 +1,5 @@
-# <table>
-  <tr>
-    <td><h1>Buenas mi gente 😎</h1></td>
+<img src="https://github.com/valentino/valentino/blob/main/ccc2efd5-e2ba-4247-bec0-167f1cf62962.png" alt="Tanjiro" width="120"/>
+
     
 
 
