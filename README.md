@@ -24,12 +24,21 @@
 - 🤝 Abierto a colaborar en proyectos interesantes
 
 ---
-<h2 align="center">🛠️ Programas que uso</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+         alt="VS Code" width="80" height="80">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+         alt="Visual Studio 2022" width="80" height="80">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         alt="GitHub" width="80" height="80">
+  </a>
 </p>
 
 
