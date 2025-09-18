@@ -1,4 +1,4 @@
-
+![Animales graciosos en la computadora](./assets/animales.gif)
 ![Cool cat typing](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
