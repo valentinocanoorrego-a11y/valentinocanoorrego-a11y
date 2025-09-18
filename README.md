@@ -54,7 +54,8 @@ ya que eso me relaja mientras hago mis deberes.
 
 </div>
 
-[![In the End - Linkin Park](https://img.shields.io/badge/Now_Playing-In_the_End_🎶-red?style=for-the-badge&logo=youtubemusic)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+[![Now Playing](https://i.imgur.com/KNm2zhR.gif)](https://music.youtube.com/watch?v=eVTXPUF4Oz4)
+
 
 
 
