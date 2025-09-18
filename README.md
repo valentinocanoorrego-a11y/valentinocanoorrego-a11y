@@ -1,4 +1,3 @@
-## 😺 Gato trabajador 🐾
 
 [![Cat typing furiously](https://media.giphy.com/media/xT4uQck51Caw74VWDe/giphy.gif)](https://giphy.com/gifs/cat-typing-xT4uQck51Caw74VWDe)
 
