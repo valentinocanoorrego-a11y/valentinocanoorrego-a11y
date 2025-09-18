@@ -21,9 +21,17 @@
 - 🏆 Siempre buscando nuevos retos  
 - 🔥 Apasionado por el código limpio  
 - 📚 Aprendiendo nuevas tecnologías día a día  
-- 🤝 Abierto a colaborar en proyectos interesantes  
+- 🤝 Abierto a colaborar en proyectos interesantes
 
 ---
+<h2 align="center">🛠️ Programas que uso</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 2022" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+</p>
+
 
 🎉 *Gracias por visitar mi perfil* 🚀 
 <h1 align="center">
