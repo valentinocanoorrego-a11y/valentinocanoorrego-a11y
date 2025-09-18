@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cool cat typing" width="400"/>
 </p>
+<h1 align="center">
+  ✨ <b>No esperes que las oportunidades lleguen,<br>sal y créalas tú mismo.</b> ✨
+</h1>
 
 
 
