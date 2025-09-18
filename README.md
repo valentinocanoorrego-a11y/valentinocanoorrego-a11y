@@ -48,7 +48,7 @@
 siempre escucho música. <br><br>
 
 🎼 Me gusta todo tipo de música. <br>  
-🎵 Mi canción favorita es <strong>In The End</strong>y Ruthless</strong>. <br>  
+🎵 Mi canción favorita es <strong>In The End</strong> y Ruthless</strong>. <br>  
 🎧 Siempre ando con audífonos escuchando música,  
 ya que eso me relaja mientras hago mis deberes.  
 
